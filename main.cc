@@ -16,6 +16,6 @@ int main(){
   struct S a;
   test();
 
-  printf ( "%d\n", a.x);
+//  printf ( "%d\n", a.x);
   return 0;
 }
